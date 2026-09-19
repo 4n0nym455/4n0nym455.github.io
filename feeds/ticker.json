@@ -1,0 +1,482 @@
+{
+  "default": [
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "date": "17 Sep 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "link": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "link": "https://github.com/mindbox77/zxdesk",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "link": "https://laya.convaiinnovations.com/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "link": "https://onionfutures.com/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "link": "https://sdcc.sourceforge.net/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Science Is Open Software",
+      "link": "https://jepedersen.dk/blog/202505_research/",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "link": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "link": "https://try.cloudflare.com/",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "date": "18 Sep 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "date": "16 Sep 2026"
+    },
+    {
+      "title": "Fighting Your Dragons Through Tough Tech Times",
+      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+      "date": "16 Sep 2026"
+    },
+    {
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+      "date": "16 Sep 2026"
+    },
+    {
+      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
+      "date": "16 Sep 2026"
+    },
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "date": "15 Sep 2026"
+    },
+    {
+      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "date": "15 Sep 2026"
+    },
+    {
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "date": "15 Sep 2026"
+    },
+    {
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "date": "14 Sep 2026"
+    },
+    {
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "date": "14 Sep 2026"
+    },
+    {
+      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+      "date": "14 Sep 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "Practical quantum computers are over a decade away, says NEC",
+      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Tether addresses AI underinvestment in Africa with open-source machine translation models",
+      "link": "https://www.cio.com/article/4223274/tether-addresses-ai-underinvestment-in-africa-with-open-source-machine-translation-models.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "The best workplace culture in America is being built by companies you’ve never heard of",
+      "link": "https://www.cio.com/article/4223505/the-best-workplace-culture-in-america-is-being-built-by-companies-youve-never-heard-of.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "16 governance tools for securing your AI fleet",
+      "link": "https://www.cio.com/article/4223016/16-governance-tools-for-securing-your-ai-fleet-2.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "What the McDonald’s AI failure reveals about AI agent mistakes",
+      "link": "https://www.cio.com/article/4222701/mcdonalds-reintroduces-ai-at-its-drive-thru.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Enterprise AI desperately needs a lifecycle for context",
+      "link": "https://www.cio.com/article/4223499/enterprise-ai-desperately-needs-a-lifecycle-for-context.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Healthcare AI’s real bottleneck isn’t intelligence — it’s integration",
+      "link": "https://www.cio.com/article/4223369/healthcare-ais-real-bottleneck-isnt-intelligence-its-integration.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "SAP CEO: The end is near for the keyboard",
+      "link": "https://www.cio.com/article/4223641/sap-executive-the-end-is-near-for-the-keyboard.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "An undisclosed Microsoft presentation is now central to a multi-million dollar antitrust fight",
+      "link": "https://www.cio.com/article/4223626/an-undisclosed-microsoft-presentation-is-now-central-to-a-multi-million-dollar-antitrust-fight-2.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "The more autonomous your AI, the more people it needs",
+      "link": "https://www.cio.com/article/4223508/the-more-autonomous-your-ai-the-more-people-it-needs.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "The amount of e-waste caused by AI is underestimated: we can’t only include the servers",
+      "link": "https://www.cio.com/article/4223594/the-amount-of-e-waste-caused-by-ai-is-underestimated-we-cant-only-include-the-servers.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "TypeSafe AI’s new models work with machines, not humans",
+      "link": "https://www.cio.com/article/4223471/typesafe-ais-new-models-work-with-machines-not-humans-2.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "OpenAI admits six new misalignment incidents under new reporting framework",
+      "link": "https://www.cio.com/article/4223462/openai-admits-six-new-misalignment-incidents-under-new-reporting-framework-2.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "AI-smart, not AI-first",
+      "link": "https://www.cio.com/article/4222917/ai-smart-not-ai-first.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "AI agents should retrieve facts, not define them",
+      "link": "https://www.cio.com/article/4222914/ai-agents-should-retrieve-facts-not-define-them.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "AI failures are inevitable. So is the CIO getting blamed.",
+      "link": "https://www.cio.com/article/4222997/ai-failures-are-inevitable-so-is-the-cio-getting-blamed.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "The CIO-Legal partnership will define the future of enterprise AI",
+      "link": "https://www.cio.com/article/4222911/the-cio-legal-partnership-will-define-the-future-of-enterprise-ai.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "The 7 new Cs of IT leadership for the AI era",
+      "link": "https://www.cio.com/article/4222994/the-7-new-cs-of-it-leadership-for-the-ai-era.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Digital transformation fails without this culture shift",
+      "link": "https://www.cio.com/article/4222873/digital-transformation-fails-without-this-culture-shift.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Salesforce’s massive outage exposes the hidden risks of cloud dependencies",
+      "link": "https://www.cio.com/article/4223037/salesforces-massive-outage-exposes-the-hidden-risks-of-cloud-dependencies.html",
+      "date": "17 Sep 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "date": "19 Sep 2026"
+    },
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "date": "18 Sep 2026"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "date": "17 Sep 2026"
+    },
+    {
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "date": "17 Sep 2026"
+    }
+  ]
+}
