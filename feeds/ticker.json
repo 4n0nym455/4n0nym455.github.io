@@ -1,0 +1,502 @@
+{
+  "default": [
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "date": "08 Oct 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "50MB operating system can resurrect your old PC",
+      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "How Protein Took over the World",
+      "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "How strong is the strong interaction?",
+      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Rampart: Browser native on-device PII radaction",
+      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "date": "09 Oct 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
+      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Writing the Next Chapter",
+      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "date": "06 Oct 2026"
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "date": "06 Oct 2026"
+    },
+    {
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "date": "06 Oct 2026"
+    },
+    {
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "date": "06 Oct 2026"
+    },
+    {
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "date": "06 Oct 2026"
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "date": "05 Oct 2026"
+    },
+    {
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+      "date": "05 Oct 2026"
+    },
+    {
+      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
+      "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "date": "05 Oct 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "Governed context: The key to scaling enterprise AI",
+      "link": "https://www.cio.com/article/4233304/governed-context-the-key-to-scaling-enterprise-ai.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Why CIOs should choose Samsung Galaxy Enterprise Edition",
+      "link": "https://www.cio.com/article/4233155/why-cios-should-choose-samsung-galaxy-enterprise-edition.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "AI won’t empty the software factory: Why the new engineers act like foremen",
+      "link": "https://www.cio.com/article/4232669/ai-wont-empty-the-software-factory-why-the-new-engineers-act-like-foremen.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Your AI foundation must extend without surrendering control",
+      "link": "https://www.cio.com/article/4232664/your-ai-foundation-must-extend-without-surrendering-control.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "The real agent risk that Replit’s database deletion revealed",
+      "link": "https://www.cio.com/article/4230232/the-replit-case-an-agent-a-written-order-and-a-deleted-database.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "You’re measuring AI adoption. You should be measuring AI abandonment",
+      "link": "https://www.cio.com/article/4232656/youre-measuring-ai-adoption-you-should-be-measuring-ai-abandonment.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "AI is your newest hire. Manage it like one",
+      "link": "https://www.cio.com/article/4232583/ai-is-your-newest-hire-manage-it-like-one.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Google wants to be the gatekeeper for enterprise AI agents",
+      "link": "https://www.cio.com/article/4232839/google-wants-to-be-the-gatekeeper-for-enterprise-ai-agents-2.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "5 rules CIOs must rewrite for the frontier AI era",
+      "link": "https://www.cio.com/article/4232556/5-rules-cios-must-rewrite-for-the-frontier-ai-era.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "I audited an award-winning AI project. The case study left out the cloud bill",
+      "link": "https://www.cio.com/article/4232005/i-audited-an-award-winning-ai-project-the-case-study-left-out-the-cloud-bill.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Why product management’s org placement shapes its success",
+      "link": "https://www.cio.com/article/4232003/why-product-managements-org-placement-shapes-its-success.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Your employees are building AI agents. Do you know what they’re doing?",
+      "link": "https://www.cio.com/article/4230240/your-employees-are-building-ai-agents-do-you-know-what-theyre-doing.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Best project management certifications of 2026",
+      "link": "https://www.cio.com/article/230398/top-project-management-certifications.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "From petrodollar to AI currency: Who will control the money of the agentic economy?",
+      "link": "https://www.cio.com/article/4232001/from-petrodollar-to-ai-currency-who-will-control-the-money-of-the-agentic-economy.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Is your architecture preventing you from calculating AI value?",
+      "link": "https://www.cio.com/article/4231999/is-your-architecture-preventing-you-from-calculating-ai-value.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "AMD’s plan to boost production could ease AI supply chain concerns",
+      "link": "https://www.cio.com/article/4231790/amds-plan-to-boost-production-could-ease-ai-supply-chain-concerns.html",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "AI is making software cheap to build. Is your organization ready for what comes next?",
+      "link": "https://www.cio.com/article/4231346/ai-is-making-software-cheap-to-build-is-your-organization-ready-for-what-comes-next.html",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "SAP to acquire TechWolf to augment its SuccessFactors HCM platform",
+      "link": "https://www.cio.com/article/4231753/sap-to-acquire-techwolf-to-augment-its-successfactors-hcm-platform.html",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "Moving off legacy in a regulated business without breaking it",
+      "link": "https://www.cio.com/article/4231327/moving-off-legacy-in-a-regulated-business-without-breaking-it.html",
+      "date": "07 Oct 2026"
+    },
+    {
+      "title": "AI is making software testing cheap. Quality judgment is becoming more valuable",
+      "link": "https://www.cio.com/article/4231324/ai-is-making-software-testing-cheap-quality-judgment-is-becoming-more-valuable.html",
+      "date": "07 Oct 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "date": "10 Oct 2026"
+    },
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "date": "09 Oct 2026"
+    },
+    {
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "date": "08 Oct 2026"
+    },
+    {
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "date": "08 Oct 2026"
+    }
+  ]
+}
