@@ -1,0 +1,507 @@
+{
+  "default": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "date": "15 Oct 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "link": "https://twitter.com/opencode/status/2111516673953935833",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "I Became a Citizen of Japan",
+      "link": "https://www.derekwessman.com/blog-1/natural",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Development statistics for the 7.2 kernel",
+      "link": "https://lwn.net/Articles/1088776/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "link": "https://github.com/vercel-labs/tsc-ts",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "link": "https://www.artie.com/careers",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "The future of programming (1982)",
+      "link": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Show HN: Things to Do API",
+      "link": "https://thingstodoapi.com/",
+      "date": "16 Oct 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "date": "14 Oct 2026"
+    },
+    {
+      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+      "date": "14 Oct 2026"
+    },
+    {
+      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+      "date": "14 Oct 2026"
+    },
+    {
+      "title": "Russian Influence Operation Widely Targets Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "date": "14 Oct 2026"
+    },
+    {
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "date": "14 Oct 2026"
+    },
+    {
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "date": "13 Oct 2026"
+    },
+    {
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "date": "13 Oct 2026"
+    },
+    {
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "date": "13 Oct 2026"
+    },
+    {
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "date": "12 Oct 2026"
+    },
+    {
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "date": "12 Oct 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "The technology maturity paradox: Why more capabilities can make IT harder",
+      "link": "https://www.cio.com/article/4236693/the-technology-maturity-paradox-why-more-capabilities-can-make-it-harder.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Why technology is no longer IT’s scarcest resource",
+      "link": "https://www.cio.com/article/4236683/why-technology-is-no-longer-its-scarcest-resource.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "AI datacenter capex will far exceed forecast revenue through 2030",
+      "link": "https://www.cio.com/article/4236629/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030-2.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Change saturation is not a communication problem",
+      "link": "https://www.cio.com/article/4236028/change-saturation-is-not-a-communication-problem.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "AI won’t kill jobs. Bad team design will",
+      "link": "https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "IT leaders still on the hunt for VMware alternatives",
+      "link": "https://www.cio.com/article/4236116/it-leaders-still-on-the-hunt-for-vmware-alternatives.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "The agent-to-agent economy is closer than you think",
+      "link": "https://www.cio.com/article/4236020/the-agent-to-agent-economy-is-closer-than-you-think.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "IT jobs report: Employers consider AI risks and ethics",
+      "link": "https://www.cio.com/article/4201347/information-technology-jobs-report.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Before you ask what an AI agent can do, ask who it is",
+      "link": "https://www.cio.com/article/4236013/before-you-ask-what-an-ai-agent-can-do-ask-who-it-is.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Onboard your AI agents like new hires to prevent automated mistakes",
+      "link": "https://www.cio.com/article/4236060/onboard-your-ai-agents-like-new-hires-to-prevent-automated-mistakes.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "TechCrunch’s Founder Summit Boston: 25% discount",
+      "link": "https://www.cio.com/article/4236024/techcrunchs-founder-summit-boston-25-discount.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Secure your AI estate: 5 things CIOs must know about AI agents",
+      "link": "https://www.cio.com/article/4234556/secure-your-ai-estate-5-things-cios-must-know-about-ai-agents.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "ServiceNow makes it easier to build AI agents, gives them verifiable identities",
+      "link": "https://www.cio.com/article/4235863/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "What a cockatoo can teach us about the evidence AI wasn’t built to hear",
+      "link": "https://www.cio.com/article/4235355/what-a-cockatoo-can-teach-us-about-the-evidence-ai-wasnt-built-to-hear.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "How to make sense of the agentic AI tools ecosystem",
+      "link": "https://www.cio.com/article/4231525/how-to-make-sense-of-the-agentic-ai-tools-ecosystem.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Token efficiency: Building AI that spends intelligence wisely",
+      "link": "https://www.cio.com/article/4235350/token-efficiency-building-ai-that-spends-intelligence-wisely.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "IT reinvention requires mastering the art of translation",
+      "link": "https://www.cio.com/article/4234871/it-reinvention-requires-mastering-the-art-of-translation.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "What hundreds of Microsoft 365 deployments have taught me about cybersecurity",
+      "link": "https://www.cio.com/article/4235279/what-hundreds-of-microsoft-365-deployments-have-taught-me-about-cybersecurity.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Workday expands AI ambitions with C1.ai identity platform acquisition",
+      "link": "https://www.cio.com/article/4235640/workday-expands-ai-ambitions-with-c1-ai-identity-platform-acquisition.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "MCP is changing the questions marketers can afford to ask",
+      "link": "https://www.cio.com/article/4235515/mcp-is-changing-the-questions-marketers-can-afford-to-ask.html",
+      "date": "15 Oct 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "date": "17 Oct 2026"
+    },
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "date": "16 Oct 2026"
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "date": "15 Oct 2026"
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "date": "15 Oct 2026"
+    }
+  ]
+}
