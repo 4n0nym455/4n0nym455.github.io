@@ -1,0 +1,507 @@
+{
+  "default": [
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "date": "22 Oct 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "I Don't Understand Quantum Physics",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "ThinkRail from JetBrains",
+      "link": "https://thinkrail.ai/",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "How Block Blast harvests its players for ad money",
+      "link": "https://ayoships.com/breakdowns/block-blast",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Apple Security Research Device",
+      "link": "https://security.apple.com/research-device/",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "date": "22 Oct 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
+      "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "UAE Transitions 50% of Government Services to Agentic AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+      "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
+      "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+      "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+      "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "date": "20 Oct 2026"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "date": "20 Oct 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "Oracle patches 1295 security vulnerabilities in October, including six scoring 10.0",
+      "link": "https://www.cio.com/article/4239848/oracle-patches-1295-security-vulnerabilities-in-october-including-six-scoring-10-0.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "TechCrunch’s Founder Summit Boston: 25% discount",
+      "link": "https://www.cio.com/article/4236024/techcrunchs-founder-summit-boston-25-discount.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Stop the insider threat lurking in AI agents",
+      "link": "https://www.cio.com/article/4239743/stop-the-insider-threat-lurking-in-ai-agents.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "SAP lets AI play key role in its certification renewal process",
+      "link": "https://www.cio.com/article/4239657/sap-lets-ai-play-key-role-in-its-certification-renewal-process.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "AI ‘Tokenomics’ is a trap. CIOs should avoid it at all costs.",
+      "link": "https://www.cio.com/article/4238094/ai-tokenomics-is-a-trap-cios-should-avoid-it-at-all-costs.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Open-weight AI models are changing the equation. Here’s what CIOs should experiment with next",
+      "link": "https://www.cio.com/article/4239186/open-weight-ai-models-are-changing-the-equation-heres-what-cios-should-experiment-with-next.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Are polymath profiles the key to AI success?",
+      "link": "https://www.cio.com/article/4238319/the-key-to-success-in-the-age-of-ai-will-lie-in-polymath-profiles.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Your AI is only as good as the network underneath it",
+      "link": "https://www.cio.com/article/4239179/your-ai-is-only-as-good-as-the-network-underneath-it.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "When collaboration gets complicated: Why IT leaders are rethinking managed services",
+      "link": "https://www.cio.com/article/4238683/when-collaboration-gets-complicated-why-it-leaders-are-rethinking-managed-services.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "CIO and CISO offices unify over AI",
+      "link": "https://www.cio.com/article/4239245/cio-and-ciso-offices-unify-over-ai.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Beyond the model: The real AI bottleneck is storage",
+      "link": "https://www.cio.com/article/4215383/beyond-the-model-the-real-ai-bottleneck-is-storage.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Salesforce to buy Braze for $5.7 billion to boost real-time customer engagement",
+      "link": "https://www.cio.com/article/4239043/salesforce-to-buy-braze-for-5-7-billion-to-boost-real-time-customer-engagement.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "10 guidelines for successfully scaling AI",
+      "link": "https://www.cio.com/article/4238588/10-guidelines-for-successfully-scaling-ai.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence",
+      "link": "https://www.cio.com/article/4238580/enterprises-dont-need-artificial-general-intelligence-they-need-artificial-specific-intelligence.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Vendor-driven upgrades saddle IT leaders with huge ‘software tax’",
+      "link": "https://www.cio.com/article/4238087/vendor-driven-upgrades-saddle-it-leaders-with-huge-software-tax.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Lack of transparency leads to performative AI theater",
+      "link": "https://www.cio.com/article/4236339/lack-of-transparency-leads-to-performative-ai-theater.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Building the agent and securing it",
+      "link": "https://www.cio.com/article/4238563/building-the-agent-and-securing-it.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "The AI boom is putting construction at the centre of the digital economy",
+      "link": "https://www.cio.com/article/4238524/the-ai-boom-is-putting-construction-at-the-centre-of-the-digital-economy.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "5 characteristics of top-performing SOC agents",
+      "link": "https://www.cio.com/article/4238658/5-characteristics-of-top-performing-soc-agents.html",
+      "date": "21 Oct 2026"
+    },
+    {
+      "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+      "link": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+      "date": "21 Oct 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "date": "24 Oct 2026"
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "date": "23 Oct 2026"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "date": "22 Oct 2026"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "date": "22 Oct 2026"
+    }
+  ]
+}
