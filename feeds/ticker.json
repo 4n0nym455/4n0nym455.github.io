@@ -1,0 +1,507 @@
+{
+  "default": [
+    {
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "date": "29 Oct 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "Shiny Object Syndrome",
+      "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "link": "https://xoranth.net/gcc-switch/",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Digital Minimalism",
+      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "link": "https://www.firezone.dev/blog/introducing-sanstun",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Jules Verne's Lost Novel",
+      "link": "https://blue-continuum.com/verne-paris",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Infinite Mac: BeOS",
+      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "link": "https://github.com/dbreunig/nesformer",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "date": "30 Oct 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Undead Software Projects Continue to Raise Security Risks",
+      "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Rethinking Cybersecurity Awareness in the AI Era",
+      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Why CTF Competitions May Be More Important Than Ever",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
+      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Threat Modeling With 4 Simple Questions on a White Board",
+      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
+      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
+      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "date": "27 Oct 2026"
+    },
+    {
+      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+      "date": "27 Oct 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "Why CIOs must prepare for hybrid quantum computing",
+      "link": "https://www.cio.com/article/4242872/why-cios-must-prepare-for-hybrid-quantum-computing.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The new geopolitics of IT: Why sovereign AI is the next boardroom mandate",
+      "link": "https://www.cio.com/article/4242869/the-new-geopolitics-of-it-why-sovereign-ai-is-the-next-boardroom-mandate.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "How CIOs can overcome the AI trust gap",
+      "link": "https://www.cio.com/article/4242239/how-cios-can-overcome-the-ai-trust-gap.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "State of IT jobs: AI boosts salaries but also burnout and the gender gap",
+      "link": "https://www.cio.com/article/4242019/state-of-it-jobs-ai-boosts-salaries-but-also-burnout-and-the-gender-gap.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The next digital twin isn’t of a machine, it’s of your business",
+      "link": "https://www.cio.com/article/4242196/the-next-digital-twin-isnt-of-a-machine-its-of-your-business.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Scaling agentic AI with confidence",
+      "link": "https://www.cio.com/article/4242545/scaling-agentic-ai-with-confidence.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "The AI trust deficit: Why explainability, not more automation, is the CIO’s next priority",
+      "link": "https://www.cio.com/article/4242542/the-ai-trust-deficit-why-explainability-not-more-automation-is-the-cios-next-priority.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Governing the agent workforce: New data on the next frontier of AI risk",
+      "link": "https://www.cio.com/article/4242383/governing-the-agent-workforce-new-data-on-the-next-frontier-of-ai-risk.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "When your AI vendor goes belly up",
+      "link": "https://www.cio.com/article/4241948/when-your-ai-vendor-goes-belly-up.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Cadence Maestro puts domain-trained AI agents to work for chip design",
+      "link": "https://www.cio.com/article/4241825/cadence-maestro-puts-domain-trained-ai-agents-to-work-for-chip-design.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "TechCrunch’s Founder Summit Boston: Last chance to save 50% on tickets",
+      "link": "https://www.cio.com/article/4236024/techcrunchs-founder-summit-boston-50-discount.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "The moat is dry – Part 2: A roadmap for rebuilding",
+      "link": "https://www.cio.com/article/4241690/the-moat-is-dry-part-2-a-roadmap-for-rebuilding.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "The moat is dry – Part 1: Why the old security model failed",
+      "link": "https://www.cio.com/article/4241680/the-moat-is-dry-part-1-why-the-old-security-model-failed.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+      "link": "https://www.cio.com/article/4241957/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "The infrastructure playbook for operational sovereignty: Why neoclouds need to offer sovereign AI",
+      "link": "https://www.cio.com/article/4241809/the-infrastructure-playbook-for-operational-sovereignty-why-neoclouds-need-to-offer-sovereign-ai.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "The euro-sovereignty playbook: How telcos are transforming into trusted AI factories",
+      "link": "https://www.cio.com/article/4241805/the-euro-sovereignty-playbook-how-telcos-are-transforming-into-trusted-ai-factories.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "Securing the foundations of intelligence: Physical security and power sovereignty in AI factories",
+      "link": "https://www.cio.com/article/4241801/securing-the-foundations-of-intelligence-physical-security-and-power-sovereignty-in-ai-factories.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "The auditor’s dilemma: Solving the explainability problem in public sector AI",
+      "link": "https://www.cio.com/article/4241797/the-auditors-dilemma-solving-the-explainability-problem-in-public-sector-ai.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "Your AI agent learned a better way. Who approved the change?",
+      "link": "https://www.cio.com/article/4241132/your-ai-agent-learned-a-better-way-who-approved-the-change.html",
+      "date": "28 Oct 2026"
+    },
+    {
+      "title": "What happens when vendors take the lead on agentic AI",
+      "link": "https://www.cio.com/article/4237060/what-happens-when-vendors-take-the-lead-on-agentic-ai.html",
+      "date": "28 Oct 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "31 Oct 2026"
+    },
+    {
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "date": "30 Oct 2026"
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "date": "29 Oct 2026"
+    },
+    {
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "date": "29 Oct 2026"
+    }
+  ]
+}
