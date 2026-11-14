@@ -1,0 +1,502 @@
+{
+  "default": [
+    {
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Microsoft says November security updates cause printing issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "date": "12 Nov 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "What happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "link": "https://grounds.top/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "How Not to Build a Music Player",
+      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "link": "https://atg.science/careers",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "link": "https://www.nature.com/articles/d41586-026-03638-3",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "FM-1 Workbench",
+      "link": "https://open.m-vave.com/fm1-workbench",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "link": "https://isometricsf.com/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "link": "https://haddyalchaer.com/jepa",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "date": "13 Nov 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+      "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "AI Raises the Stakes for Cyber Resilience",
+      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "As Test Takers Turn to AI for Answers, Exam Security Must Catch Up",
+      "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+      "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+      "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+      "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "How to Assess OT Incident Response Preparedness",
+      "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+      "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
+      "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "People Are Getting Weird About AI",
+      "link": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+      "date": "09 Nov 2026"
+    },
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "date": "09 Nov 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "M365 services slowly come back online after global outage",
+      "link": "https://www.cio.com/article/4248596/m365-services-slowly-come-back-online-after-global-outage-2.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Nvidia’s leadership crisis puts enterprise AI’s dependence on one company under scrutiny",
+      "link": "https://www.cio.com/article/4248546/nvidias-leadership-crisis-puts-enterprise-ais-dependence-on-one-company-under-scrutiny-2.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Saying no to AI spend is how we protect AI value",
+      "link": "https://www.cio.com/article/4248060/saying-no-to-ai-spend-is-how-we-protect-ai-value.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "The AI at the source of water management reform",
+      "link": "https://www.cio.com/article/4247561/ai-leadership-inside-how-the-climate-crisis-has-changed-water-management-why-did-the-korea-water-resources-corporation-choose-ai.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Cisco’s 4 pillars for achieving agentic AI transformation",
+      "link": "https://www.cio.com/article/4247042/ciscos-4-pillars-to-achieve-agentic-ai-transformation.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Your AI ROI problem is a culture problem",
+      "link": "https://www.cio.com/article/4248056/your-ai-roi-problem-is-a-culture-problem.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Microsoft struggles to get M365 services back online after widespread outage",
+      "link": "https://www.cio.com/article/4248249/microsoft-struggles-to-get-m365-services-back-online-after-widespread-outage.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "United Airlines becomes the latest enterprise to shut its door to customer bots",
+      "link": "https://www.cio.com/article/4248161/united-airlines-becomes-the-latest-enterprise-to-shut-its-door-to-customer-bots-2.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "The midterms are over. The business fallout is just beginning",
+      "link": "https://www.cio.com/article/4248016/the-midterms-are-over-the-business-fallout-is-just-beginning.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Inside X-VPN’s 200%+ Speed Upgrade: 25 Gbps Servers, AI Routing and Talaria Protocol",
+      "link": "https://www.cio.com/article/4247894/inside-x-vpns-200-speed-upgrade-25-gbps-servers-ai-routing-and-talaria-protocol.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "CEOs have had enough of incremental AI",
+      "link": "https://www.cio.com/article/4245964/ceos-have-had-enough-of-incremental-ai.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Top 10 IT certifications in demand today",
+      "link": "https://www.cio.com/article/193586/top-15-it-certifications-in-demand-today.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Jev and the era of model Tetris",
+      "link": "https://www.cio.com/article/4247450/jev-and-the-era-of-model-tetris.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "OffSec Celebrates 20 Years of Practitioner-Built Training From the Creators of Kali Linux and OSCP",
+      "link": "https://www.cio.com/article/4247678/offsec-celebrates-20-years-of-practitioner-built-training-from-the-creators-of-kali-linux-and-oscp.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Taking AI-based transformations to the next level with prompt markup languages",
+      "link": "https://www.cio.com/article/4246977/taking-ai-based-transformations-to-the-next-level-with-prompt-markup-languages.html",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "As employees build AI agents, CIOs manage the lifecycle",
+      "link": "https://www.cio.com/article/4246026/as-employees-build-ai-agents-cios-manage-the-lifecycle.html",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "New US CIO appointments, November 2026",
+      "link": "https://www.cio.com/article/230613/new-cio-appointments.html",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "The AI prototype worked. Who promised the launch?",
+      "link": "https://www.cio.com/article/4246975/the-ai-prototype-worked-who-promised-the-launch.html",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "One Identity Unveils Active Roles 8.6 with Enhanced Security and Administration",
+      "link": "https://www.cio.com/article/4247172/one-identity-unveils-active-roles-8-6-with-enhanced-security-and-administration-2.html",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "Monetizing compliance: New AI revenue streams for regional CSPs",
+      "link": "https://www.cio.com/article/4246916/monetizing-compliance-new-ai-revenue-streams-for-regional-csps.html",
+      "date": "10 Nov 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "date": "14 Nov 2026"
+    },
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "date": "12 Nov 2026"
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "date": "12 Nov 2026"
+    }
+  ]
+}
