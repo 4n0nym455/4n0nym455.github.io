@@ -1,0 +1,507 @@
+{
+  "default": [
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "N-able says recent security breach led to major service outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "date": "19 Nov 2026"
+    }
+  ],
+  "writeups": [
+    {
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "date": "21 Nov 2026"
+    },
+    {
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "date": "21 Nov 2026"
+    },
+    {
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "date": "21 Nov 2026"
+    },
+    {
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "link": "https://github.com/diggerhq/opencomputer",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "And yet, it moves",
+      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "link": "https://scottaaronson.blog/?p=10344",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "link": "https://winedroid.soham.sh/demo/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "link": "https://manidoraisamy.com/developer-to-architect.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "link": "https://news.ycombinator.com/item?id=50577613",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "date": "20 Nov 2026"
+    }
+  ],
+  "network-labs": [
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Why Holiday Security Can't Wait for Black Friday",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "date": "17 Nov 2026"
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "date": "17 Nov 2026"
+    },
+    {
+      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
+      "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "date": "17 Nov 2026"
+    },
+    {
+      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "date": "17 Nov 2026"
+    },
+    {
+      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+      "date": "16 Nov 2026"
+    },
+    {
+      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
+      "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "date": "16 Nov 2026"
+    },
+    {
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+      "date": "16 Nov 2026"
+    },
+    {
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "date": "16 Nov 2026"
+    }
+  ],
+  "community": [
+    {
+      "title": "What developers and QA need from each other when AI writes the code",
+      "link": "https://www.cio.com/article/4251514/what-developers-and-qa-need-from-each-other-when-ai-writes-the-code.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "AI is changing the build-versus-buy equation. Are CIOs ready?",
+      "link": "https://www.cio.com/article/4250943/ai-is-changing-the-build-versus-buy-equation-are-cios-ready.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "An insider’s look at SAP’s ‘Autonomous Enterprise’",
+      "link": "https://www.cio.com/article/4249833/sap-caio-we-need-to-be-more-precise-in-managing-the-use-of-ai.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Why quantum readiness is the next test of global competitiveness",
+      "link": "https://www.cio.com/article/4250932/why-quantum-readiness-is-the-next-test-of-global-competitiveness.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "The leadership gap when technical specialists become executives",
+      "link": "https://www.cio.com/article/4250886/the-leadership-gap-when-technical-specialists-become-executives.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Microsoft keeps failing. Why can’t its customers leave?",
+      "link": "https://www.cio.com/article/4250381/microsoft-keeps-failing-why-cant-its-customers-leave.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "FAA ground stop offers IT leaders stark modernization lessons",
+      "link": "https://www.cio.com/article/4250479/faa-ground-stop-offers-it-leaders-stark-modernization-lessons.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "The dark side of AI in hiring: When job applicants become security threats",
+      "link": "https://www.cio.com/article/4250367/the-dark-side-of-ai-in-hiring-when-job-applicants-become-security-threats.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "AI leadership: 3 success lessons from CBA’s chief AI officer",
+      "link": "https://www.cio.com/article/4250275/ai-leadership-3-success-lessons-from-cbas-chief-ai-officer.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Trusted AI by design, not by default",
+      "link": "https://www.cio.com/article/4243814/trusted-ai-by-design-not-by-default.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Keep skyrocketing AI costs in check",
+      "link": "https://www.cio.com/article/4243812/keep-skyrocketing-ai-costs-in-check.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Rewrite the rules of enterprise recovery",
+      "link": "https://www.cio.com/article/4250414/rewrite-the-rules-of-enterprise-recovery.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "8 reasons why you should attend IGEL Now & Next 2027 in Fort Lauderdale",
+      "link": "https://www.cio.com/article/4250315/8-reasons-why-you-should-attend-igel-now-next-2027-in-fort-lauderdale.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Why CIOs must make zero trust an AI-era priority in 2027",
+      "link": "https://www.cio.com/article/4250310/why-cios-must-make-zero-trust-an-ai-era-priority-in-2027.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Beyond RTO: Why CIOs should measure time to restored user access",
+      "link": "https://www.cio.com/article/4250300/beyond-rto-why-cios-should-measure-time-to-restored-user-access.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Adaptability in action: How CIOs can modernize work without sacrificing resilience",
+      "link": "https://www.cio.com/article/4250294/adaptability-in-action-how-cios-can-modernize-work-without-sacrificing-resilience.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
+      "link": "https://www.cio.com/article/4250220/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "Why IT leaders who hit every target still get passed over for promotion",
+      "link": "https://www.cio.com/article/4249765/why-it-leaders-who-hit-every-target-still-get-passed-over-for-promotion.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "How BCG turns client innovation into enterprise AI",
+      "link": "https://www.cio.com/article/4248115/how-bcg-turns-client-innovation-into-enterprise-ai.html",
+      "date": "18 Nov 2026"
+    },
+    {
+      "title": "What is a semantic knowledge graph, and does your AI need one?",
+      "link": "https://www.cio.com/article/4249101/what-is-a-semantic-knowledge-graph-and-does-your-ai-need-one.html",
+      "date": "18 Nov 2026"
+    }
+  ],
+  "cve": [
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "The Path to AI Autonomy in the SOC",
+      "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "date": "20 Nov 2026"
+    },
+    {
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
+      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "date": "19 Nov 2026"
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "date": "18 Nov 2026"
+    }
+  ]
+}
